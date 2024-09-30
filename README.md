@@ -42,6 +42,30 @@ Our group has interest and experience in working with machine learning framework
 
 Our team will work on the project for at least 2 hours weekly. We will then spend 30 minutes each week to meet and report on the work done and the challenge.
 
+Specific timeline:
+
+- Week 1: Setup and preliminary research.
+  
+- Week 2: Environment setup and codebase familiarization.
+  
+- Week 3: Implement FedAvg and initial evaluation.
+  
+- Week 4: Implement TERM and preliminary comparison.
+  
+- Week 5: Implement AFL and conduct comparative analysis.
+  
+- Week 6: Initial bias analysis and documentation.
+  
+- Week 7: Hyperparameter tuning and refinement.
+  
+- Week 8: In-depth system evaluation.Week 9: Final analysis and visualization.
+
+- Week 9: Final analysis and visualization
+  
+- Week 10: Final testing and report drafting.
+  
+- Week 11: Final submission and presentation preparation.
+
 
 **References**
 
