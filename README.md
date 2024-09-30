@@ -22,7 +22,7 @@ Provided Data -> Federated Learning (using Laptop with CUDA-enabled GPU)
 
 **HW/SW Requirements**
 
-+) Python
+-  Python
 +) Laptop with CUDA-enabled GPU
 
 **Team Members Responsibilities**
