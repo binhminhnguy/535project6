@@ -1,14 +1,17 @@
 # Bias Analysis in Federated Learning for Heterogeneous Sensors
 
 **Motivation**
+
 Federated learning focuses on training machine learning models collaboratively while ensuring participants' data remains private. Various forms of sensitive data, including images, audio, text, and sensor information, can be gathered for model training, but this data is vulnerable to exploitation by adversaries, jeopardizing the privacy of the involved parties. As adversarial techniques advance and attacks on machine learning models become more sophisticated, the risk of an adversary recovering confidential data used in training is growing. Federated learning provides a solution by enabling data from different sources to be used in a unified learning system, while still maintaining the privacy of each party's data.
 
 Our group has interest and experience in working with machine learning framework and IoT devices. We also have experience in security engineering with multiple projects in data encryption in ECE 371 and 547. 
 
 **Design Goals**
+
 Variations in feature distribution in federating learning leads to biases. Our goal is to model this bias towards different groups.
 
 **Deliverable**
+
 +) Understanding different federated learning techniques including - Federated averaging, Tilted Empirical Risk Minimization, and agnostic federated learning.
 +) Use different datasets for training and assessing two federated learning techniques.
 +) Examine the enhancement in the variance of accuracy among individual client groups when employing various federated learning techniques
@@ -23,6 +26,7 @@ Provided Data -> Federated Learning (using Laptop with CUDA-enabled GPU)
 +) Laptop with CUDA-enabled GPU
 
 **Team Members Responsibilities**
+
 +) Manh Cuong La: Setup, Software, Research - Communication-Efficient Learning of Deep Networks from Decentralized Data and CIFAR-10. 
 +) Binh Minh Nguyen: Networking, algorithm designs, Research- Agnostic Federated Learning
 +) Ronit Ghai: Analyze data and testing, Research - Tilted Empirical Risk Minimization and 
