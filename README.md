@@ -20,7 +20,7 @@ Our group has interest and experience in working with machine learning framework
 
 **System Blocks**
 
-Provided Data -> Federated Learning (using Laptop with CUDA-enabled GPU)
+- Provided Data -> Federated Learning (using Laptop with CUDA-enabled GPU)
 
 **HW/SW Requirements**
 
