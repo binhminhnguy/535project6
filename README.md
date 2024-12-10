@@ -32,11 +32,11 @@ Our group has interest and experience in working with machine learning framework
 
 -  Manh Cuong La: Setup, Software, Research - Communication-Efficient Learning of Deep Networks from Decentralized Data and CIFAR-10. 
 
--  Binh Minh Nguyen: Networking, algorithm designs, Research- Agnostic Federated Learning
+-  Binh Minh Nguyen: Networking, algorithm designs, Research- FedAvg
 
 -  Ronit Ghai: Analyze data and testing, Research - Tilted Empirical Risk Minimization and FashionMNISTFashionMNIST
 
--  Robert Lewandowski: Writing, additional part from Professor, Research - FedAvg and TERM. 
+-  Robert Lewandowski: Writing, additional part from Professor, Research - TERM. 
 
 **Project Timeline**
 
